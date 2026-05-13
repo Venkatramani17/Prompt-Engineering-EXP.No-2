@@ -21,5 +21,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+[exp2prompt.pdf](https://github.com/user-attachments/files/27693039/exp2prompt.pdf)
 
 RESULT:
+the effectiveness of prompting techniques and ai platforms have been evaluvated
